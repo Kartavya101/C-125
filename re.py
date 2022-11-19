@@ -1,4 +1,4 @@
-# Project 123
+# Project 125
 import numpy as np
 rewards = np.array([10,9,8,7,6,5,4,3,2,1])
 print("Available Awards Are: \n",rewards)
